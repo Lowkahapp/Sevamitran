@@ -1,0 +1,6 @@
+{
+  "name": "SevaMitr - Elderly Care Assistant",
+  "description": "Zero-UI WhatsApp voice assistant for seniors paired with a real-time Traffic Light caregiver dashboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
